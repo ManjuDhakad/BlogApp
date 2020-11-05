@@ -1,0 +1,25 @@
+
+ol{
+    list-style: none !important ;
+}
+
+button{
+    width: 100px;
+    height: 40px;
+    font-size:20px;
+    background-color: #000b18;
+    color : white;
+    border-radius: 20px;   
+}
+
+.each_card{
+    background-color: #e9ecef ;
+    position: relative;
+    padding: 10px;
+    margin: 0em 8em 1em 8em;
+}
+span{
+    position: absolute;
+    top: 80%;
+    right: 5%;
+}
